@@ -13,6 +13,7 @@ MAIN FEATURES:
 - Users can browse available assets and listings
 - Listings include residential, commercial, and rental properties
 - Each listing contains details such as location, price, and availability
+- NaijaAssets charge 500$ per listing when a house is listed on the platform
 
 2. Buy / Rent / Sell System
 - Users can list properties for sale or rent
