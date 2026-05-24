@@ -1,0 +1,3 @@
+NaijaAssets is a digital marketplace platform.
+Users can post listings, browse assets, and manage accounts.
+The platform supports categories, search, and user dashboards.
